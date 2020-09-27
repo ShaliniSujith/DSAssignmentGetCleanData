@@ -1,4 +1,4 @@
-*run_analysis.R* script performs the data preparation and then 5 steps as mentioned in the project's definition.
+**run_analysis.R** script performs the data preparation and then 5 steps as mentioned in the project's definition.
 
 ### 1. Download the dataset
 Dataset downloaded and extracted under the folder called UCI HAR Dataset
